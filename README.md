@@ -3,7 +3,7 @@ Machine learning system for identifying fraudulent credit card transactions usin
 
 ## 🐍 Python Stack
 
-- **Python 3.9+**
+- **Python 3.13+**
 - **XGBoost**
 - **scikit-learn** 
 - **pandas**
